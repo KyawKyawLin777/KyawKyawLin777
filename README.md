@@ -17,8 +17,6 @@
 <br>
 - :mailbox: How to reach me **lkyawkyaw878@gmail.com**
 <h3 align="left">Connect with me: +95 950961312</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
