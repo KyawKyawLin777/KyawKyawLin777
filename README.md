@@ -1,7 +1,4 @@
 
- 
-
-:palm_tree:  3:53 PM
 <p align="center">
   <img src= "https://media2.giphy.com/media/jsUIl8W67ohMXGx1V8/giphy.gif?cid=ecf05e47ksz9l6hv1xmpfgdfgi1j3fv8nkvv5s5u5paniuvu&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
 </p>
