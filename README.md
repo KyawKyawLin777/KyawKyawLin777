@@ -1,4 +1,4 @@
-![image](https://github.com/KyawKyawLin777/KyawKyawLin777/assets/116836539/1a7ff5c1-6cb8-436d-a49c-b8ef282503ea)<p align="center">
+
   <img src= "https://www.icegif.com/wp-content/uploads/2021/10/icegif-1641.gif" >
 </p>
 <h1 align="center">Hi :wave:, I'm Kyaw Kyaw Lin</h1>
