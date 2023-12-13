@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src= "https://media2.giphy.com/media/jsUIl8W67ohMXGx1V8/giphy.gif?cid=ecf05e47ksz9l6hv1xmpfgdfgi1j3fv8nkvv5s5u5paniuvu&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
+  <img src= "https://media0.giphy.com/media/bxRuoWEJG7mso/200w.gif?cid=6c09b952elnj66rwf7lkmobn88cnf0d76kbr9u9t6x7wllz9&ep=v1_gifs_search&rid=200w.gif&ct=s" >
 </p>
 <h1 align="center">Hi :wave:, I'm Kyaw Kyaw Lin</h1>
 <h3 align="center"> Web Developer from Myanmar</h3>
