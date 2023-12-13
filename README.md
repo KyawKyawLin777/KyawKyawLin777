@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="20%" src= "https://i0.wp.com/media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif?w=525&ssl=1" >
+</p>
 <h1 align="center">Hi 👋, I'm Kyaw Kyaw Lin</h1>
 <h3 align="center">Web Developer from Myanmar</h3>
 
