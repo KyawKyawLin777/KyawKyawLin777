@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me: +95 950961312</h3>
 
 <p align="left">
+  <a href="https://fb.com/kyawlin878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyawlin878" height="30" width="40" /></a>
 <a href="https://discord.gg/kyawkyawlin._93610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kyawkyawlin._93610" height="30" width="40" /></a>
 </p>
 
