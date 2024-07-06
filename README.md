@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawkyawlin777&label=Profile%20views&color=0e75b6&style=flat" alt="kyawkyawlin777" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-- :seedling: I’m currently learning **JQuery** <br>
+- :seedling: I’m currently learning **Vue** <br>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **Laravel**
 
