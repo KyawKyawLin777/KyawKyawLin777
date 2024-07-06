@@ -18,7 +18,7 @@
 - :speech_balloon: Ask me about **PHP, Laravel**
 <br>
 - :mailbox: How to reach me **lkyawkyaw878@gmail.com**
-<h3 align="left">Connect with me: +95 950961312</h3>
+<h3 align="left">Connect with me: +95 9950961312</h3>
 
 <p align="left">
   <a href="https://fb.com/kyawlin878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyawlin878" height="30" width="40" /></a>
