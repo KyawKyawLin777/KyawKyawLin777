@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawkyawlin777&label=Profile%20views&color=0e75b6&style=flat" alt="kyawkyawlin777" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-- :seedling: I’m currently learning **Vue** <br>
+- :seedling: I’m currently learning **React** <br>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at https://kyawkyawlin777.github.io/github-portfolio/
 
