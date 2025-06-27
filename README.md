@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at https://kyawkyawlin777.github.io/github-portfolio/
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel, Flutter**
 
-- :speech_balloon: Ask me about **PHP, Laravel**
+- :speech_balloon: Ask me about **PHP, Laravel, Flutter**
 <br>
 - :mailbox: How to reach me **lkyawkyaw878@gmail.com**
 <h3 align="left">Connect with me: +95 9950961312</h3>
